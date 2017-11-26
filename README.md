@@ -1,6 +1,6 @@
 ## Welcome to Obfucia Documentation
 
-You can use the [editor on GitHub](https://github.com/anothercwsmith/obfucia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Testing the update speed. (12:02 PM EST)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
