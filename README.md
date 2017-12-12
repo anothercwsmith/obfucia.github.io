@@ -1,11 +1,11 @@
 ## Welcome to Obfucia Documentation
 
-[User's Manual] (http://blank)
+[User's Manual](http://blank)
 
-[Project Plan] (https://blank)
+[Project Plan](https://blank)
 
-[Developer's Manual] (http://blank)
+[Developer's Manual](http://blank)
 
-[Gantt Chart] (http://blank)
+[Gantt Chart](http://blank)
 
-[Organizational Chart] (http://blank)
+[Organizational Chart](http://blank)
